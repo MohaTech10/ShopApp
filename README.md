@@ -21,5 +21,5 @@
 
 my portfolo:
 
-[iosdevt.com](http//:www.iosedevt.com, "My Portfolio")
+[iosdevt.com](http://www.iosdevt.com, "My Portfolio")
 
