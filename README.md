@@ -16,10 +16,10 @@
 
 ### and much more 
 
-[Course Playlist on YouTube](https://www.youtube.com/playlist?list=PLDCTk1kTFRGgKLEeQUKaSAVeaxuLrNclL, "course playlist")
+[Course Playlist on YouTube](https://www.youtube.com/playlist?list=PLDCTk1kTFRGgKLEeQUKaSAVeaxuLrNclL "course playlist")
 
 
 my portfolo:
 
-[iosdevt.com](http://www.iosdevt.com, "My Portfolio")
+[iosdevt.com](http://www.iosdevt.com "My Portfolio")
 
